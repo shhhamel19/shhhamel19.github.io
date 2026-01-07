@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Hi, I'm Shawn.
+## Hi, I'm Shawn.
 
 Operations & Strategy Leader in Live Entertainment
 
